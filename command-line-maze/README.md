@@ -1,5 +1,5 @@
 # Alan's CMD Line Maze
-## OH NO!
+### OH NO!
 #### Joe Biden is LOST!
 #### Thankfully he left us a clue on his whereabouts.
 #### The clue reads:

@@ -7,7 +7,7 @@ console = Console()
 def InitialData():
     table = Table(title="Video Games")
     table.add_column("Title", style="yellow")
-    table.add_column("Publishers", style="gray", no_wrap=True)
+    table.add_column("Publishers", style="magenta", no_wrap=True)
     table.add_column("Year", justify="right")
     
     table.add_row("Tetris", "Alexey Pajitnov", "1984")

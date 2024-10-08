@@ -1,4 +1,5 @@
 import csv
+import os
 from rich.console import Console
 from rich.table import Table
 
@@ -45,7 +46,7 @@ def SaveCSV(game_data, file_path="fav_video_games.csv"):
         writer.writerow(["Title", "Publisher", "Year"])
         writer.writerows(game_data)
     
-    console.print(f"[bold green]Data has been saved to {file_path}[/bold green]")
+    console.print(f"[bold green]Data has been saved to {os.path.abspath(file_path)}[/bold green]")
 
 # Main program
 def main():

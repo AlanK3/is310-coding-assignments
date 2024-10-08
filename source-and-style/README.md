@@ -8,7 +8,8 @@ I examined the course website for CS 173, a class that makes me want to cry at t
 
 ### **What web technologies (that is HTML, CSS, or JavaScript) were used to build the tool? Are there files that end in .html, .css, or .js?**
 
-![alt text](all3.png)
+![](all3.png)
+![](html.png)
 
 I found the trio of files that are typical for any website, the .html, .css, and .js files. I wonder why Inspect Element doesn't show the .html extension?
 

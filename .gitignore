@@ -1,1 +1,3 @@
+# .gitignore
 .env
+api-getting-data/keys.env

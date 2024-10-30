@@ -1,0 +1,1715 @@
+{
+    "time": "2024-10-30T16:51:20-05:00",
+    "new_changeset": true,
+    "status": {
+        "code": 200,
+        "msg": "ok"
+    },
+    "rqst": {
+        "method": "GetVehicles",
+        "params": {}
+    },
+    "vehicles": [
+        {
+            "vehicle_id": "1348",
+            "trip": {
+                "trip_id": "[@15.0.63192662@][2][1334601002186]/17__L2_SCH_MF",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "LAVENDER",
+                "block_id": "L2 SCH MF",
+                "direction": "South",
+                "service_id": "L2 SCH MF",
+                "shape_id": "LAVENDER 2"
+            },
+            "location": {
+                "lat": 40.13813,
+                "lon": -88.2595
+            },
+            "previous_stop_id": "MKTVSAMS:4",
+            "next_stop_id": "ANTHYRK:2",
+            "origin_stop_id": "INTRSRCH:1",
+            "destination_stop_id": "IT:2",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1716",
+            "trip": {
+                "trip_id": "[@2.0.81838518@][11][1430160316588]/13__P1_MF",
+                "trip_headsign": "Round Barn Road",
+                "route_id": "PINK",
+                "block_id": "P1 MF",
+                "direction": "A",
+                "service_id": "P1 MF",
+                "shape_id": "[@2.0.81838518@]101"
+            },
+            "location": {
+                "lat": 40.112133,
+                "lon": -88.282867
+            },
+            "previous_stop_id": "CFDCPA:1",
+            "next_stop_id": "RNDBRNRD:1",
+            "origin_stop_id": "RNDBRNRD:1",
+            "destination_stop_id": "RNDBRNRD:1",
+            "last_updated": "2024-10-30T16:51:05-05:00"
+        },
+        {
+            "vehicle_id": "1720",
+            "trip": {
+                "trip_id": "[@124.0.103534744@][32][1510344802986]/4__N1_MF",
+                "trip_headsign": "Kirby & Mullikin",
+                "route_id": "NAVY",
+                "block_id": "N1 MF",
+                "direction": "West",
+                "service_id": "N1 MF",
+                "shape_id": "[@6.0.40494377@]8"
+            },
+            "location": {
+                "lat": 40.083383,
+                "lon": -88.314133
+            },
+            "previous_stop_id": "HLTHCRSTLY:1",
+            "next_stop_id": "MLKNCPRRG:2",
+            "origin_stop_id": "IT:2",
+            "destination_stop_id": "MLKNCTSMDW:2",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1728",
+            "trip": {
+                "trip_id": "[@6.0.14329702@][2][1622063740585]/26__Y4_MF",
+                "trip_headsign": "Savoy Walmart",
+                "route_id": "YELLOW",
+                "block_id": "Y4 MF",
+                "direction": "South",
+                "service_id": "Y4 MF",
+                "shape_id": "YELLOW 14"
+            },
+            "location": {
+                "lat": 40.083767,
+                "lon": -88.249667
+            },
+            "previous_stop_id": "FOXKLWD:4",
+            "next_stop_id": "LNHSTBDFD:4",
+            "origin_stop_id": "WALMART:2",
+            "destination_stop_id": "SWALMART:1",
+            "last_updated": "2024-10-30T16:51:17-05:00"
+        },
+        {
+            "vehicle_id": "2022",
+            "trip": {
+                "trip_id": "804174:girondins:1999:1730323523525__I6_UIMF:523808:Girondins:1999:1730323522949",
+                "trip_headsign": null,
+                "route_id": "ILLINI",
+                "block_id": "I6 UIMF:523808:Girondins:1999:1730323522949",
+                "direction": "SOUTH",
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.1103,
+                "lon": -88.22845
+            },
+            "previous_stop_id": "IU:9",
+            "next_stop_id": "WRTCHAL:4",
+            "origin_stop_id": "LNCLNKLRNY:1",
+            "destination_stop_id": "PAR:2",
+            "last_updated": "2024-10-30T16:50:53-05:00"
+        },
+        {
+            "vehicle_id": "1196",
+            "trip": {
+                "trip_id": "0.19646290955864776__BZ1_SCH_MF",
+                "trip_headsign": null,
+                "route_id": null,
+                "block_id": "BZ1 SCH MF",
+                "direction": null,
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.10792,
+                "lon": -88.208917
+            },
+            "previous_stop_id": "LSE:1",
+            "next_stop_id": null,
+            "origin_stop_id": null,
+            "destination_stop_id": null,
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2042",
+            "trip": {
+                "trip_id": "[@6.0.15252684@][2][1622672028480]/85__LN1_MF",
+                "trip_headsign": "Water Survey",
+                "route_id": "LINK",
+                "block_id": "LN1 MF",
+                "direction": null,
+                "service_id": "LN1 MF",
+                "shape_id": "[@6.0.15252684@]2"
+            },
+            "location": {
+                "lat": 40.105467,
+                "lon": -88.23145
+            },
+            "previous_stop_id": "WRTCHAL:4",
+            "next_stop_id": "4THGRG:7",
+            "origin_stop_id": "UNIWRT:2",
+            "destination_stop_id": "ISWS:2",
+            "last_updated": "2024-10-30T16:50:59-05:00"
+        },
+        {
+            "vehicle_id": "1601",
+            "trip": {
+                "trip_id": "[@6.0.51699430@][31][1716921762883]/9__G1_MF",
+                "trip_headsign": "Eastern & Perkins",
+                "route_id": "GOLD",
+                "block_id": "G1 MF",
+                "direction": "East",
+                "service_id": "G1 MF",
+                "shape_id": "[@6.0.51699430@]102"
+            },
+            "location": {
+                "lat": 40.12205,
+                "lon": -88.20195
+            },
+            "previous_stop_id": "CNHMOKLN:4",
+            "next_stop_id": "TCA:1",
+            "origin_stop_id": "E14:2",
+            "destination_stop_id": "PKNSEAST:2",
+            "last_updated": "2024-10-30T16:51:05-05:00"
+        },
+        {
+            "vehicle_id": "1611",
+            "trip": {
+                "trip_id": "[@7.0.41893871@][3][1243541396687]/99__T1_UIMTH",
+                "trip_headsign": "Orchard Downs",
+                "route_id": "TEAL",
+                "block_id": "T1 UIMTH",
+                "direction": "East",
+                "service_id": "T1 UIMTH",
+                "shape_id": "12E TEAL 13"
+            },
+            "location": {
+                "lat": 40.11535,
+                "lon": -88.242033
+            },
+            "previous_stop_id": "IT:5",
+            "next_stop_id": "WHT2ND:3",
+            "origin_stop_id": "IT:5",
+            "destination_stop_id": "ODSS:1",
+            "last_updated": "2024-10-30T16:50:53-05:00"
+        },
+        {
+            "vehicle_id": "1346",
+            "trip": {
+                "trip_id": "[@14.0.56288551@][3][1303835312544]/0__GN3_SCH_WED",
+                "trip_headsign": "Stillwater Landing",
+                "route_id": "GREEN",
+                "block_id": "GN3 SCH WED",
+                "direction": "East",
+                "service_id": "GN3 SCH WED",
+                "shape_id": "[@15.0.73007320@]506"
+            },
+            "location": {
+                "lat": 40.094493,
+                "lon": -88.17175
+            },
+            "previous_stop_id": "STNCRKBN:4",
+            "next_stop_id": "STNCRKSTLWTR:4",
+            "origin_stop_id": "PA6TH:1",
+            "destination_stop_id": "STNCRKSTLWTR:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "1179",
+            "trip": {
+                "trip_id": "5GN571__GN5_MF",
+                "trip_headsign": "Round Barn Road - Holiday Park",
+                "route_id": "GREEN",
+                "block_id": "GN5 MF",
+                "direction": "West",
+                "service_id": "GN5 MF",
+                "shape_id": "5WPM->LSE"
+            },
+            "location": {
+                "lat": 40.105893,
+                "lon": -88.18875
+            },
+            "previous_stop_id": "CCSJ:3",
+            "next_stop_id": "LRMNHNTR:4",
+            "origin_stop_id": "MNBRDY:2",
+            "destination_stop_id": "LSE:8",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2201",
+            "trip": {
+                "trip_id": "[@15.0.63192037@][3][1337951976131]/2__BZ2_WED",
+                "trip_headsign": "Yankee Ridge - Lincoln Square",
+                "route_id": "BRONZE",
+                "block_id": "BZ2 WED",
+                "direction": "East",
+                "service_id": "BZ2 WED",
+                "shape_id": "[@15.0.63192037@]1"
+            },
+            "location": {
+                "lat": 40.10515,
+                "lon": -88.223867
+            },
+            "previous_stop_id": "GWNNV:4",
+            "next_stop_id": "GRGDNR:3",
+            "origin_stop_id": "IU:1",
+            "destination_stop_id": "LSE:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "2366",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][1][1238430123625]/57__I3_UIMF",
+                "trip_headsign": "Lincoln & Killarney",
+                "route_id": "ILLINI",
+                "block_id": "I3 UIMF",
+                "direction": "North",
+                "service_id": "I3 UIMF",
+                "shape_id": "22N ILLINI 10"
+            },
+            "location": {
+                "lat": 40.110467,
+                "lon": -88.225033
+            },
+            "previous_stop_id": "IU:1",
+            "next_stop_id": "GWNMN:2",
+            "origin_stop_id": "PAR:2",
+            "destination_stop_id": "LNCLNKLRNY:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "1188",
+            "trip": {
+                "trip_id": "2GN544__GN2_MF",
+                "trip_headsign": "Round Barn Road - Holiday Park",
+                "route_id": "GREEN",
+                "block_id": "GN2 MF",
+                "direction": "West",
+                "service_id": "GN2 MF",
+                "shape_id": "5WPMLSE->IT"
+            },
+            "location": {
+                "lat": 40.110517,
+                "lon": -88.22675
+            },
+            "previous_stop_id": "IU:2",
+            "next_stop_id": "GRN4TH:1",
+            "origin_stop_id": "LSE:8",
+            "destination_stop_id": "IT:2",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1729",
+            "trip": {
+                "trip_id": "[@6.0.14329702@][1][1622066455573]/58__Y2_UIMF",
+                "trip_headsign": "Champaign Walmart",
+                "route_id": "YELLOW",
+                "block_id": "Y2 UIMF",
+                "direction": "North",
+                "service_id": "Y2 UIMF",
+                "shape_id": "[@15.0.63189004@]23"
+            },
+            "location": {
+                "lat": 40.114433,
+                "lon": -88.238583
+            },
+            "previous_stop_id": "WHT2ND:1",
+            "next_stop_id": "IT:5",
+            "origin_stop_id": "SWALMART:1",
+            "destination_stop_id": "WALMART:2",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "1355",
+            "trip": {
+                "trip_id": "[@14.0.56288404@][1][1302710320617]/5__R5_MF",
+                "trip_headsign": "Trails - Market Place - Ashland Park",
+                "route_id": "RED",
+                "block_id": "R5 MF",
+                "direction": "Champaign",
+                "service_id": "R5 MF",
+                "shape_id": "[@14.0.56288404@]5"
+            },
+            "location": {
+                "lat": 40.098317,
+                "lon": -88.209217
+            },
+            "previous_stop_id": "FLBRDWY:1",
+            "next_stop_id": "PARACE:2",
+            "origin_stop_id": "LSE:1",
+            "destination_stop_id": "NWTNNBL:3",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "2305",
+            "trip": {
+                "trip_id": "[@14.0.52435578@][4][1275675560671]/17__O3_MF_(V001)",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "ORANGEHOPPER",
+                "block_id": "O3 MF (V001)",
+                "direction": "West",
+                "service_id": "O3 MF (V001)",
+                "shape_id": "6WIT->CF HOPPER"
+            },
+            "location": {
+                "lat": 40.116483,
+                "lon": -88.220783
+            },
+            "previous_stop_id": "LNCLNCHCH:7",
+            "next_stop_id": "UNIGWN:1",
+            "origin_stop_id": "UNICTGRV:1",
+            "destination_stop_id": "IT:1",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2416",
+            "trip": {
+                "trip_id": "[@6.0.51699430@][31][1717167382814]/4__G2_MF",
+                "trip_headsign": "Lincoln Square",
+                "route_id": "GOLD",
+                "block_id": "G2 MF",
+                "direction": "East",
+                "service_id": "G2 MF",
+                "shape_id": "[@6.0.51699430@]103"
+            },
+            "location": {
+                "lat": 40.089717,
+                "lon": -88.269133
+            },
+            "previous_stop_id": "DVNMYFR:3",
+            "next_stop_id": "MYFRBDMR:2",
+            "origin_stop_id": "DVNMYFR:3",
+            "destination_stop_id": "LSE:2",
+            "last_updated": "2024-10-30T16:50:59-05:00"
+        },
+        {
+            "vehicle_id": "2313",
+            "trip": {
+                "trip_id": "[@6.0.14329702@][1][1622066465003]/59__Y3_MF",
+                "trip_headsign": "Champaign Walmart",
+                "route_id": "YELLOW",
+                "block_id": "Y3 MF",
+                "direction": "North",
+                "service_id": "Y3 MF",
+                "shape_id": "[@15.0.63189004@]23"
+            },
+            "location": {
+                "lat": 40.075217,
+                "lon": -88.251383
+            },
+            "previous_stop_id": "LNHSTBRWS:1",
+            "next_stop_id": "LNHSTARBR:2",
+            "origin_stop_id": "SWALMART:1",
+            "destination_stop_id": "WALMART:2",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "1734",
+            "trip": {
+                "trip_id": "115540:girondins:1999:1730322852043__GN8_MF:971338:Girondins:1999:1730322851174",
+                "trip_headsign": null,
+                "route_id": "GREENHOPPER",
+                "block_id": "GN8 MF:971338:Girondins:1999:1730322851174",
+                "direction": "EAST",
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.111617,
+                "lon": -88.20515
+            },
+            "previous_stop_id": "LSE:1",
+            "next_stop_id": "VINIL:4",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "WASHLRMN:7",
+            "last_updated": "2024-10-30T16:50:59-05:00"
+        },
+        {
+            "vehicle_id": "1731",
+            "trip": {
+                "trip_id": "[@6.0.28932250@][1][1654214032262]/81__SV5_UIMF",
+                "trip_headsign": "Lincoln Square",
+                "route_id": "SILVER",
+                "block_id": "SV5 UIMF",
+                "direction": "North",
+                "service_id": "SV5 UIMF",
+                "shape_id": "[@6.0.28932250@]1"
+            },
+            "location": {
+                "lat": 40.112767,
+                "lon": -88.220783
+            },
+            "previous_stop_id": "SPFLDHVY:3",
+            "next_stop_id": "SPFLDBSY:3",
+            "origin_stop_id": "PAR:2",
+            "destination_stop_id": "LSE:8",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1730",
+            "trip": {
+                "trip_id": "[@6.0.54216924@][1723045917795]/67__O1_MF_(V001)",
+                "trip_headsign": "Lincoln Square - US 150 & Dodson",
+                "route_id": "ORANGE",
+                "block_id": "O1 MF (V001)",
+                "direction": "East",
+                "service_id": "O1 MF (V001)",
+                "shape_id": "[@6.0.54216924@]ORANGE 13"
+            },
+            "location": {
+                "lat": 40.11735,
+                "lon": -88.228333
+            },
+            "previous_stop_id": "UNI6TH:3",
+            "next_stop_id": "PKRMN:3",
+            "origin_stop_id": "RNDBRNRD:2",
+            "destination_stop_id": "150DOD:5",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "1836",
+            "trip": {
+                "trip_id": "[@14.0.56288268@][3][1302635305265]/18__B3_SCH_MF",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "BLUE",
+                "block_id": "B3 SCH MF",
+                "direction": "East",
+                "service_id": "B3 SCH MF",
+                "shape_id": "BLUE 51"
+            },
+            "location": {
+                "lat": 40.109967,
+                "lon": -88.228817
+            },
+            "previous_stop_id": "PLAZA:2",
+            "next_stop_id": "WHTWRT:2",
+            "origin_stop_id": "RNDBRNRD:2",
+            "destination_stop_id": "IT:1",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2312",
+            "trip": {
+                "trip_id": "[@7.0.41893871@][3][1243541488843]/132__T5_UIMF",
+                "trip_headsign": "PAR",
+                "route_id": "TEAL",
+                "block_id": "T5 UIMF",
+                "direction": "East",
+                "service_id": "T5 UIMF",
+                "shape_id": "[@15.0.79613563@]47"
+            },
+            "location": {
+                "lat": 40.1144,
+                "lon": -88.233883
+            },
+            "previous_stop_id": "WHT2ND:3",
+            "next_stop_id": "WRTSTOTN:4",
+            "origin_stop_id": "IT:5",
+            "destination_stop_id": "PAPAR:1",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1725",
+            "trip": {
+                "trip_id": "[@6.0.51699430@][31][1717269044436]/31__G5_MF",
+                "trip_headsign": "Eastern & Perkins",
+                "route_id": "GOLD",
+                "block_id": "G5 MF",
+                "direction": "East",
+                "service_id": "G5 MF",
+                "shape_id": "[@6.0.51699430@]102"
+            },
+            "location": {
+                "lat": 40.094433,
+                "lon": -88.241167
+            },
+            "previous_stop_id": "E14:2",
+            "next_stop_id": "1STSTDM:2",
+            "origin_stop_id": "E14:2",
+            "destination_stop_id": "PKNSEAST:2",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "1718",
+            "trip": {
+                "trip_id": "5GNX302__GNX3_MF",
+                "trip_headsign": "Curtis & Wynstone",
+                "route_id": "GREEN EXPRESS",
+                "block_id": "GNX3 MF",
+                "direction": "West",
+                "service_id": "GNX3 MF",
+                "shape_id": "5WXPM"
+            },
+            "location": {
+                "lat": 40.11265,
+                "lon": -88.248717
+            },
+            "previous_stop_id": "SPFLDPRRE:1",
+            "next_stop_id": "SPFLDNEW:1",
+            "origin_stop_id": "PA6TH:1",
+            "destination_stop_id": "CRTSWNSTN:3",
+            "last_updated": "2024-10-30T16:50:56-05:00"
+        },
+        {
+            "vehicle_id": "1714",
+            "trip": {
+                "trip_id": "[@7.0.41101146@][3][1237929928359]/10__GN8_MF",
+                "trip_headsign": "Washington & Lierman",
+                "route_id": "GREENHOPPER",
+                "block_id": "GN8 MF",
+                "direction": "East",
+                "service_id": "GN8 MF",
+                "shape_id": "5E HOPPER 79"
+            },
+            "location": {
+                "lat": 40.098267,
+                "lon": -88.185683
+            },
+            "previous_stop_id": "FLADAMS:3",
+            "next_stop_id": "FLCRTS:3",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "WASHLRMN:7",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2260",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][1][1238430123625]/59__I7_UIMTH",
+                "trip_headsign": "Lincoln & Anthony",
+                "route_id": "ILLINI",
+                "block_id": "I7 UIMTH",
+                "direction": "North",
+                "service_id": "I7 UIMTH",
+                "shape_id": "[@15.0.63192528@]43"
+            },
+            "location": {
+                "lat": 40.104183,
+                "lon": -88.228817
+            },
+            "previous_stop_id": "GRGLIB:2",
+            "next_stop_id": "4THPDY:4",
+            "origin_stop_id": "PAR:2",
+            "destination_stop_id": "LNCLNKLRNY:2",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "2104",
+            "trip": {
+                "trip_id": "[@6.0.14331263@][1][1622139626848]/36__Y8_UIMF",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "YELLOWHOPPER",
+                "block_id": "Y8 UIMF",
+                "direction": "North",
+                "service_id": "Y8 UIMF",
+                "shape_id": "YELLOWHOPPER 23"
+            },
+            "location": {
+                "lat": 40.10375,
+                "lon": -88.238583
+            },
+            "previous_stop_id": "1STSTDM:2",
+            "next_stop_id": "GRGIKE:1",
+            "origin_stop_id": "E14:2",
+            "destination_stop_id": "IT:5",
+            "last_updated": "2024-10-30T16:50:56-05:00"
+        },
+        {
+            "vehicle_id": "2103",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][2][1238430887312]/192__I6_UIMF",
+                "trip_headsign": "PAR",
+                "route_id": "ILLINI",
+                "block_id": "I6 UIMF",
+                "direction": "South",
+                "service_id": "I6 UIMF",
+                "shape_id": "22S ILLINI 20"
+            },
+            "location": {
+                "lat": 40.13235,
+                "lon": -88.2187
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "LNCLNKING:4",
+            "origin_stop_id": "LNCLNKLRNY:1",
+            "destination_stop_id": "PAR:2",
+            "last_updated": "2024-10-30T16:51:11-05:00"
+        },
+        {
+            "vehicle_id": "2102",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][2][1238430887312]/191__I4_UIMF",
+                "trip_headsign": "PAR",
+                "route_id": "ILLINI",
+                "block_id": "I4 UIMF",
+                "direction": "South",
+                "service_id": "I4 UIMF",
+                "shape_id": "22S ILLINI 20"
+            },
+            "location": {
+                "lat": 40.1055,
+                "lon": -88.238683
+            },
+            "previous_stop_id": "1STDAN:1",
+            "next_stop_id": "1STGRG:4",
+            "origin_stop_id": "LNCLNKLRNY:1",
+            "destination_stop_id": "PAR:2",
+            "last_updated": "2024-10-30T16:51:11-05:00"
+        },
+        {
+            "vehicle_id": "2145",
+            "trip": {
+                "trip_id": "577572:girondins:1999:1730325002263__O2_MF_(V001):938893:Girondins:1999:1730325001379",
+                "trip_headsign": null,
+                "route_id": "ORANGE",
+                "block_id": "O2 MF (V001):938893:Girondins:1999:1730325001379",
+                "direction": "WEST",
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.113567,
+                "lon": -88.206833
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "BDWYNWTR:2",
+            "origin_stop_id": "LSE:2",
+            "destination_stop_id": "RNDBRNRD:2",
+            "last_updated": "2024-10-30T16:50:08-05:00"
+        },
+        {
+            "vehicle_id": "1939",
+            "trip": {
+                "trip_id": "[@14.0.46304650@][3][1272038578968]/0__GN9_WED",
+                "trip_headsign": "Main & Brady",
+                "route_id": "GREEN",
+                "block_id": "GN9 WED",
+                "direction": "East",
+                "service_id": "GN9 WED",
+                "shape_id": "[@15.0.68508734@]66"
+            },
+            "location": {
+                "lat": 40.109,
+                "lon": -88.27685
+            },
+            "previous_stop_id": "RNDBRNRD:2",
+            "next_stop_id": "SPFLDCFD:2",
+            "origin_stop_id": "RNDBRNRD:2",
+            "destination_stop_id": "MNBRDY:2",
+            "last_updated": "2024-10-30T16:50:53-05:00"
+        },
+        {
+            "vehicle_id": "2263",
+            "trip": {
+                "trip_id": "[@6.0.28932250@][2][1654525442681]/14__SV4_SCH_UIMTH",
+                "trip_headsign": "PAR",
+                "route_id": "SILVER",
+                "block_id": "SV4 SCH UIMTH",
+                "direction": "South",
+                "service_id": "SV4 SCH UIMTH",
+                "shape_id": "SILVER 120"
+            },
+            "location": {
+                "lat": 40.10415,
+                "lon": -88.226633
+            },
+            "previous_stop_id": "GRGLIB:1",
+            "next_stop_id": "GWNGRG:3",
+            "origin_stop_id": "LSE:8",
+            "destination_stop_id": "PAR:2",
+            "last_updated": "2024-10-30T16:51:17-05:00"
+        },
+        {
+            "vehicle_id": "1726",
+            "trip": {
+                "trip_id": "[@14.0.56288268@][3][1302635354802]/19__B4_SCH_WED",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "BLUE",
+                "block_id": "B4 SCH WED",
+                "direction": "East",
+                "service_id": "B4 SCH WED",
+                "shape_id": "BLUE 51"
+            },
+            "location": {
+                "lat": 40.101433,
+                "lon": -88.276483
+            },
+            "previous_stop_id": "MATSPRNCTN:2",
+            "next_stop_id": "MATSSHRDN:2",
+            "origin_stop_id": "RNDBRNRD:2",
+            "destination_stop_id": "IT:1",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2149",
+            "trip": {
+                "trip_id": "[@2.0.81457398@][11][1425933027212]/18__RV1_MF",
+                "trip_headsign": "Illini Union",
+                "route_id": "RAVEN",
+                "block_id": "RV1 MF",
+                "direction": "N/A",
+                "service_id": "RV1 MF",
+                "shape_id": "[@2.0.81457398@]15"
+            },
+            "location": {
+                "lat": 40.099267,
+                "lon": -88.220883
+            },
+            "previous_stop_id": "PADNR:4",
+            "next_stop_id": "LNCLNSMR:4",
+            "origin_stop_id": "VETMED:1",
+            "destination_stop_id": "VETMED:1",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "2202",
+            "trip": {
+                "trip_id": "[@6.0.15252684@][2][1622672028480]/86__LN2_MF",
+                "trip_headsign": "Water Survey",
+                "route_id": "LINK",
+                "block_id": "LN2 MF",
+                "direction": null,
+                "service_id": "LN2 MF",
+                "shape_id": "[@6.0.15252684@]2"
+            },
+            "location": {
+                "lat": 40.112183,
+                "lon": -88.219383
+            },
+            "previous_stop_id": "SPFLDLNCLN:7",
+            "next_stop_id": "GRNGWN:8",
+            "origin_stop_id": "UNIWRT:2",
+            "destination_stop_id": "ISWS:2",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "2021",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][1][1238430123625]/58__I5_UITH",
+                "trip_headsign": "Lincoln & Killarney",
+                "route_id": "ILLINI",
+                "block_id": "I5 UITH",
+                "direction": "North",
+                "service_id": "I5 UITH",
+                "shape_id": "22N ILLINI 10"
+            },
+            "location": {
+                "lat": 40.107883,
+                "lon": -88.235567
+            },
+            "previous_stop_id": "1STDAN:6",
+            "next_stop_id": "4THCHAL:4",
+            "origin_stop_id": "PAR:2",
+            "destination_stop_id": "LNCLNKLRNY:1",
+            "last_updated": "2024-10-30T16:51:05-05:00"
+        },
+        {
+            "vehicle_id": "1602",
+            "trip": {
+                "trip_id": "[@2.0.80545657@][32][1425489629219]/40__GR2_MF",
+                "trip_headsign": "Parkland College",
+                "route_id": "GREY",
+                "block_id": "GR2 MF",
+                "direction": "West",
+                "service_id": "GR2 MF",
+                "shape_id": "7W"
+            },
+            "location": {
+                "lat": 40.112867,
+                "lon": -88.201867
+            },
+            "previous_stop_id": "MNGRV:1",
+            "next_stop_id": "LSE:2",
+            "origin_stop_id": "UWALMART:2",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1608",
+            "trip": {
+                "trip_id": "[@6.0.54224810@][1723045972014]/47__BB1_MF_(V001)",
+                "trip_headsign": "Parkland College",
+                "route_id": "BROWN",
+                "block_id": "BB1 MF (V001)",
+                "direction": "B",
+                "service_id": "BB1 MF (V001)",
+                "shape_id": "[@6.0.54224810@]366"
+            },
+            "location": {
+                "lat": 40.083717,
+                "lon": -88.279817
+            },
+            "previous_stop_id": "WDSRWNCH:4",
+            "next_stop_id": "WDSRCCS:1",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "2309",
+            "trip": {
+                "trip_id": "[@7.0.41893871@][4][1243540851671]/29__T4_UIMF",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "TEAL",
+                "block_id": "T4 UIMF",
+                "direction": "West",
+                "service_id": "T4 UIMF",
+                "shape_id": "12W TEAL 12"
+            },
+            "location": {
+                "lat": 40.11035,
+                "lon": -88.2288
+            },
+            "previous_stop_id": "IU:2",
+            "next_stop_id": "WHTWRT:2",
+            "origin_stop_id": "ODSS:1",
+            "destination_stop_id": "IT:5",
+            "last_updated": "2024-10-30T16:51:05-05:00"
+        },
+        {
+            "vehicle_id": "2203",
+            "trip": {
+                "trip_id": "[@6.0.14329702@][2][1622063775470]/27__Y5_UIMF",
+                "trip_headsign": "Savoy Walmart",
+                "route_id": "YELLOW",
+                "block_id": "Y5 UIMF",
+                "direction": "South",
+                "service_id": "Y5 UIMF",
+                "shape_id": "YELLOW 14"
+            },
+            "location": {
+                "lat": 40.121133,
+                "lon": -88.2454
+            },
+            "previous_stop_id": "STEVIN:4",
+            "next_stop_id": "NEILCLMBA:3",
+            "origin_stop_id": "WALMART:2",
+            "destination_stop_id": "SWALMART:1",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "1715",
+            "trip": {
+                "trip_id": "[@2.0.80545657@][32][1425489662101]/44__GR3_UI",
+                "trip_headsign": "Parkland College",
+                "route_id": "GREY",
+                "block_id": "GR3 UI",
+                "direction": "West",
+                "service_id": "GR3 UI",
+                "shape_id": "7W"
+            },
+            "location": {
+                "lat": 40.12205,
+                "lon": -88.257833
+            },
+            "previous_stop_id": "PSPCTWASH:2",
+            "next_stop_id": "VINWLS:1",
+            "origin_stop_id": "UWALMART:2",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "2020",
+            "trip": {
+                "trip_id": "[@6.0.28932250@][1][1654525597845]/58__SV1_UIMTH",
+                "trip_headsign": "PAR",
+                "route_id": "SILVER",
+                "block_id": "SV1 UIMTH",
+                "direction": "North",
+                "service_id": "SV1 UIMTH",
+                "shape_id": "[@6.0.28932250@]1"
+            },
+            "location": {
+                "lat": 40.104167,
+                "lon": -88.22865
+            },
+            "previous_stop_id": "GRGMUM:2",
+            "next_stop_id": "ARYWRT:5",
+            "origin_stop_id": "PAR:2",
+            "destination_stop_id": "LSE:8",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "2018",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][2][1238430887312]/193__I2_UIMTH",
+                "trip_headsign": "PAR",
+                "route_id": "ILLINI",
+                "block_id": "I2 UIMTH",
+                "direction": "South",
+                "service_id": "I2 UIMTH",
+                "shape_id": "22S ILLINI 20"
+            },
+            "location": {
+                "lat": 40.12805,
+                "lon": -88.219617
+            },
+            "previous_stop_id": "LNCLNKING:4",
+            "next_stop_id": "ONYX:1",
+            "origin_stop_id": "LNCLNKLRNY:1",
+            "destination_stop_id": "PAR:2",
+            "last_updated": "2024-10-30T16:50:53-05:00"
+        },
+        {
+            "vehicle_id": "2041",
+            "trip": {
+                "trip_id": "[@6.0.54224810@][1723045972014]/39__BB2_MF_(V001)",
+                "trip_headsign": "Parkland College",
+                "route_id": "BROWN",
+                "block_id": "BB2 MF (V001)",
+                "direction": "B",
+                "service_id": "BB2 MF (V001)",
+                "shape_id": "[@6.0.54224810@]366"
+            },
+            "location": {
+                "lat": 40.110117,
+                "lon": -88.228867
+            },
+            "previous_stop_id": "PLAZA:2",
+            "next_stop_id": "WHTWRT:2",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "2310",
+            "trip": {
+                "trip_id": "1GN515__GN1_MF",
+                "trip_headsign": "Florida & Philo - Savannah Green",
+                "route_id": "GREEN",
+                "block_id": "GN1 MF",
+                "direction": "East",
+                "service_id": "GN1 MF",
+                "shape_id": "[@15.0.68508734@]66"
+            },
+            "location": {
+                "lat": 40.110283,
+                "lon": -88.2291
+            },
+            "previous_stop_id": "GRN6TH:3",
+            "next_stop_id": "GRNGWN:6",
+            "origin_stop_id": "RNDBRNRD:2",
+            "destination_stop_id": "MNBRDY:2",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "1723",
+            "trip": {
+                "trip_id": "[@6.0.51699430@][32][1717270261028]/58__G6_MF",
+                "trip_headsign": "Mattis & Devonshire",
+                "route_id": "GOLD",
+                "block_id": "G6 MF",
+                "direction": "West",
+                "service_id": "G6 MF",
+                "shape_id": "[@6.0.51699430@]109"
+            },
+            "location": {
+                "lat": 40.111567,
+                "lon": -88.22405
+            },
+            "previous_stop_id": "SPFLDHVY:1",
+            "next_stop_id": "GRNGWN:7",
+            "origin_stop_id": "LSE:8",
+            "destination_stop_id": "DVNMYFR:3",
+            "last_updated": "2024-10-30T16:51:05-05:00"
+        },
+        {
+            "vehicle_id": "1189",
+            "trip": {
+                "trip_id": "[@6.0.54224810@][1723045972014]/13__BA2_SCH_MF_(V001)",
+                "trip_headsign": "Parkland College",
+                "route_id": "BROWN",
+                "block_id": "BA2 SCH MF (V001)",
+                "direction": "A",
+                "service_id": "BA2 SCH MF (V001)",
+                "shape_id": "[@6.0.54224810@]364"
+            },
+            "location": {
+                "lat": 40.094557,
+                "lon": -88.244833
+            },
+            "previous_stop_id": "SMROAK:4",
+            "next_stop_id": "FOXRSCNCE:1",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "2147",
+            "trip": {
+                "trip_id": "[@6.0.51699430@][31][1717268500551]/15__G4_MF",
+                "trip_headsign": "Lincoln Square",
+                "route_id": "GOLD",
+                "block_id": "G4 MF",
+                "direction": "East",
+                "service_id": "G4 MF",
+                "shape_id": "[@6.0.51699430@]103"
+            },
+            "location": {
+                "lat": 40.112333,
+                "lon": -88.212817
+            },
+            "previous_stop_id": "SPFLDPRC:1",
+            "next_stop_id": "LSE:2",
+            "origin_stop_id": "DVNMYFR:3",
+            "destination_stop_id": "LSE:2",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2421",
+            "trip": {
+                "trip_id": "710369:girondins:1999:1730324877465__GNX4_MF:383774:Girondins:1999:1730324877379",
+                "trip_headsign": null,
+                "route_id": "GREEN",
+                "block_id": "GNX4 MF:383774:Girondins:1999:1730324877379",
+                "direction": "EAST",
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.115917,
+                "lon": -88.239933
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "WLNTLGN:1",
+            "origin_stop_id": "IT:1",
+            "destination_stop_id": "STNCRKSTLWTR:1",
+            "last_updated": "2024-10-30T16:48:05-05:00"
+        },
+        {
+            "vehicle_id": "1192",
+            "trip": {
+                "trip_id": "[@7.0.41101146@][4][1237930179093]/32__GNX2_MF",
+                "trip_headsign": "Parkland College",
+                "route_id": "GREENHOPPER",
+                "block_id": "GNX2 MF",
+                "direction": "West",
+                "service_id": "GNX2 MF",
+                "shape_id": "5W HOPPER 81"
+            },
+            "location": {
+                "lat": 40.118243,
+                "lon": -88.281667
+            },
+            "previous_stop_id": "CFDPK:2",
+            "next_stop_id": "CFDPAV:2",
+            "origin_stop_id": "WASHLRMN:7",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "2044",
+            "trip": {
+                "trip_id": "[@14.0.56288268@][4][1305742643366]/0__B2_MF",
+                "trip_headsign": "Round Barn Road",
+                "route_id": "BLUE",
+                "block_id": "B2 MF",
+                "direction": "West",
+                "service_id": "B2 MF",
+                "shape_id": "4W"
+            },
+            "location": {
+                "lat": 40.109033,
+                "lon": -88.252717
+            },
+            "previous_stop_id": "JOHNLYN:1",
+            "next_stop_id": "JOHNPINE:1",
+            "origin_stop_id": "IT:1",
+            "destination_stop_id": "RNDBRNRD:2",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1194",
+            "trip": {
+                "trip_id": "[@14.0.52435578@][3][1275675740468]/35__O2_MF_(V001)",
+                "trip_headsign": "University & Cottage Grove",
+                "route_id": "ORANGEHOPPER",
+                "block_id": "O2 MF (V001)",
+                "direction": "East",
+                "service_id": "O2 MF (V001)",
+                "shape_id": "[@15.0.68513410@]21"
+            },
+            "location": {
+                "lat": 40.118307,
+                "lon": -88.2145
+            },
+            "previous_stop_id": "CLRCHCH:3",
+            "next_stop_id": "PKCNTRL:3",
+            "origin_stop_id": "IT:1",
+            "destination_stop_id": "UNICTGRV:9",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "1174",
+            "trip": {
+                "trip_id": "[@6.0.54224810@][1723045972014]/12__BA1_MF_(V001)",
+                "trip_headsign": "Parkland College",
+                "route_id": "BROWN",
+                "block_id": "BA1 MF (V001)",
+                "direction": "A",
+                "service_id": "BA1 MF (V001)",
+                "shape_id": "[@6.0.54224810@]364"
+            },
+            "location": {
+                "lat": 40.131607,
+                "lon": -88.288083
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "BRADCLTN:6",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "1166",
+            "trip": {
+                "trip_id": "[@14.0.46304650@][3][1270562322406]/3__GN7_UIMTH_(V001)",
+                "trip_headsign": "Main & Brady",
+                "route_id": "GREEN",
+                "block_id": "GN7 UIMTH (V001)",
+                "direction": "East",
+                "service_id": "GN7 UIMTH (V001)",
+                "shape_id": "5ETOCF"
+            },
+            "location": {
+                "lat": 40.105007,
+                "lon": -88.294333
+            },
+            "previous_stop_id": "MPLPKMPLWD:2",
+            "next_stop_id": "WLMDNCN:1",
+            "origin_stop_id": "WSFLDLWNDL:4",
+            "destination_stop_id": "RNDBRNRD:2",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "1169",
+            "trip": {
+                "trip_id": "[@14.0.56288404@][2][1302878218400]/7__R1_MF",
+                "trip_headsign": "Lincoln Square",
+                "route_id": "RED",
+                "block_id": "R1 MF",
+                "direction": "Urbana",
+                "service_id": "R1 MF",
+                "shape_id": "RED 9"
+            },
+            "location": {
+                "lat": 40.112353,
+                "lon": -88.205
+            },
+            "previous_stop_id": "VINGRN:1",
+            "next_stop_id": null,
+            "origin_stop_id": "MKTPLC:1",
+            "destination_stop_id": "LSE:1",
+            "last_updated": "2024-10-30T16:51:17-05:00"
+        },
+        {
+            "vehicle_id": "1724",
+            "trip": {
+                "trip_id": "[@2.0.80545657@][31][1425487442569]/19__GR1_MF_SCH",
+                "trip_headsign": "Urbana Walmart",
+                "route_id": "GREY",
+                "block_id": "GR1 MF SCH",
+                "direction": "East",
+                "service_id": "GR1 MF SCH",
+                "shape_id": "7E->LSG"
+            },
+            "location": {
+                "lat": 40.12745,
+                "lon": -88.280583
+            },
+            "previous_stop_id": "BRADCLTN:6",
+            "next_stop_id": "RESTURBMIN:2",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "UWALMART:2",
+            "last_updated": "2024-10-30T16:50:59-05:00"
+        },
+        {
+            "vehicle_id": "1352",
+            "trip": {
+                "trip_id": "[@14.0.56288404@][2][1303318289597]/11__R2_MF_(V001)",
+                "trip_headsign": "Lincoln Square",
+                "route_id": "RED",
+                "block_id": "R2 MF (V001)",
+                "direction": "Urbana",
+                "service_id": "R2 MF (V001)",
+                "shape_id": "RED 9"
+            },
+            "location": {
+                "lat": 40.114443,
+                "lon": -88.233667
+            },
+            "previous_stop_id": "WHT2ND:3",
+            "next_stop_id": "WRTSTOTN:4",
+            "origin_stop_id": "MKTPLC:1",
+            "destination_stop_id": "LSE:1",
+            "last_updated": "2024-10-30T16:51:11-05:00"
+        },
+        {
+            "vehicle_id": "1353",
+            "trip": {
+                "trip_id": "0.48141642420445174__I8_4S_UI_SCH_WED",
+                "trip_headsign": null,
+                "route_id": null,
+                "block_id": "I8 4S UI SCH WED",
+                "direction": null,
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.06897,
+                "lon": -88.24825
+            },
+            "previous_stop_id": "CRTSWNSTN:3",
+            "next_stop_id": null,
+            "origin_stop_id": null,
+            "destination_stop_id": null,
+            "last_updated": "2024-10-30T16:49:23-05:00"
+        },
+        {
+            "vehicle_id": "1164",
+            "trip": {
+                "trip_id": "[@2.0.81838518@][12][1430161313741]/31__P2_MF_SCH",
+                "trip_headsign": "Round Barn Road",
+                "route_id": "PINK",
+                "block_id": "P2 MF SCH",
+                "direction": "B",
+                "service_id": "P2 MF SCH",
+                "shape_id": "[@2.0.81838518@]103"
+            },
+            "location": {
+                "lat": 40.130213,
+                "lon": -88.313
+            },
+            "previous_stop_id": "FRLYWRDG:4",
+            "next_stop_id": "PBLBRKBLGRS:3",
+            "origin_stop_id": "RNDBRNRD:2",
+            "destination_stop_id": "RNDBRNRD:2",
+            "last_updated": "2024-10-30T16:51:02-05:00"
+        },
+        {
+            "vehicle_id": "1182",
+            "trip": {
+                "trip_id": "[@14.0.56288404@][1][1302721117462]/14__R3_MF",
+                "trip_headsign": "Market Place",
+                "route_id": "RED",
+                "block_id": "R3 MF",
+                "direction": "Champaign",
+                "service_id": "R3 MF",
+                "shape_id": "RED 1"
+            },
+            "location": {
+                "lat": 40.138003,
+                "lon": -88.239167
+            },
+            "previous_stop_id": "MKTWLBR:2",
+            "next_stop_id": "MKTPLC:1",
+            "origin_stop_id": "LSE:1",
+            "destination_stop_id": "MKTPLC:1",
+            "last_updated": "2024-10-30T16:50:59-05:00"
+        },
+        {
+            "vehicle_id": "1173",
+            "trip": {
+                "trip_id": "[@15.0.63192662@][1][1334088681858]/19__L1_MF",
+                "trip_headsign": "Champaign Walmart - Research Park",
+                "route_id": "LAVENDER",
+                "block_id": "L1 MF",
+                "direction": "North",
+                "service_id": "L1 MF",
+                "shape_id": "[@15.0.63192662@]4"
+            },
+            "location": {
+                "lat": 40.138003,
+                "lon": -88.277083
+            },
+            "previous_stop_id": "MATSMNA:2",
+            "next_stop_id": "ANTDOBB:4",
+            "origin_stop_id": "IT:2",
+            "destination_stop_id": "INTRSRCH:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "1837",
+            "trip": {
+                "trip_id": "[@6.0.51699751@][31][1717179779518]/10__G3_MF",
+                "trip_headsign": "Lincoln Square",
+                "route_id": "GOLDHOPPER",
+                "block_id": "G3 MF",
+                "direction": "East",
+                "service_id": "G3 MF",
+                "shape_id": "GOLDHOPPER 2"
+            },
+            "location": {
+                "lat": 40.102217,
+                "lon": -88.238583
+            },
+            "previous_stop_id": "KBYOAK:2",
+            "next_stop_id": "1STGRG:2",
+            "origin_stop_id": "E14:2",
+            "destination_stop_id": "LSE:8",
+            "last_updated": "2024-10-30T16:50:59-05:00"
+        },
+        {
+            "vehicle_id": "1609",
+            "trip": {
+                "trip_id": "789323:girondins:1999:1730323839455__GNX4_MF:720396:Girondins:1999:1730323838767",
+                "trip_headsign": null,
+                "route_id": "GREEN",
+                "block_id": "GNX4 MF:720396:Girondins:1999:1730323838767",
+                "direction": "EAST",
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.11245,
+                "lon": -88.282817
+            },
+            "previous_stop_id": "RBRCFD:1",
+            "next_stop_id": "SPFLDCFD:6",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "STNCRKSTLWTR:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "1612",
+            "trip": {
+                "trip_id": "134435:girondins:1999:1730324056988__Y3_MF:177749:Girondins:1999:1730324056119",
+                "trip_headsign": null,
+                "route_id": "YELLOW",
+                "block_id": "Y3 MF:177749:Girondins:1999:1730324056119",
+                "direction": "NORTH",
+                "service_id": null,
+                "shape_id": null
+            },
+            "location": {
+                "lat": 40.069,
+                "lon": -88.247283
+            },
+            "previous_stop_id": "PDKELOTB:2",
+            "next_stop_id": "WDFLDABT:2",
+            "origin_stop_id": "SWALMART:1",
+            "destination_stop_id": "WALMART:2",
+            "last_updated": "2024-10-30T16:50:47-05:00"
+        },
+        {
+            "vehicle_id": "2105",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][2][1238430887312]/190__I1_UIMF",
+                "trip_headsign": "PAR",
+                "route_id": "ILLINI",
+                "block_id": "I1 UIMF",
+                "direction": "South",
+                "service_id": "I1 UIMF",
+                "shape_id": "[@15.0.68513188@]4"
+            },
+            "location": {
+                "lat": 40.109017,
+                "lon": -88.222433
+            },
+            "previous_stop_id": "KRANNERT:2",
+            "next_stop_id": "LNCLNIL:3",
+            "origin_stop_id": "LNCLNKLRNY:2",
+            "destination_stop_id": "PAR:2",
+            "last_updated": "2024-10-30T16:51:11-05:00"
+        },
+        {
+            "vehicle_id": "2043",
+            "trip": {
+                "trip_id": "[@7.0.41893871@][3][1243541396687]/98__T2_UIMF",
+                "trip_headsign": "Orchard Downs",
+                "route_id": "TEAL",
+                "block_id": "T2 UIMF",
+                "direction": "East",
+                "service_id": "T2 UIMF",
+                "shape_id": "12E TEAL 13"
+            },
+            "location": {
+                "lat": 40.109567,
+                "lon": -88.224
+            },
+            "previous_stop_id": "IU:1",
+            "next_stop_id": "CHEMLS:1",
+            "origin_stop_id": "IT:5",
+            "destination_stop_id": "ODSS:1",
+            "last_updated": "2024-10-30T16:50:56-05:00"
+        },
+        {
+            "vehicle_id": "2308",
+            "trip": {
+                "trip_id": "[@2.0.80545657@][31][1425487442569]/18__GR4_MF",
+                "trip_headsign": "Urbana Walmart",
+                "route_id": "GREY",
+                "block_id": "GR4 MF",
+                "direction": "East",
+                "service_id": "GR4 MF",
+                "shape_id": "7E->LSG"
+            },
+            "location": {
+                "lat": 40.111983,
+                "lon": -88.2075
+            },
+            "previous_stop_id": "LSE:1",
+            "next_stop_id": "MNGRV:3",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "UWALMART:2",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "2146",
+            "trip": {
+                "trip_id": "[@7.0.41101146@][4][1237930167062]/30__GNX5_MF_(V001)",
+                "trip_headsign": "Parkland College",
+                "route_id": "GREENHOPPER",
+                "block_id": "GNX5 MF (V001)",
+                "direction": "West",
+                "service_id": "GNX5 MF (V001)",
+                "shape_id": "5W HOPPER 81"
+            },
+            "location": {
+                "lat": 40.10325,
+                "lon": -88.200217
+            },
+            "previous_stop_id": "ADRSNMI:2",
+            "next_stop_id": "FRLN:2",
+            "origin_stop_id": "WASHLRMN:7",
+            "destination_stop_id": "PKLN:1",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "1168",
+            "trip": {
+                "trip_id": "[@6.0.14331263@][1][1622139626848]/37__Y6_UIMF",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "YELLOWHOPPER",
+                "block_id": "Y6 UIMF",
+                "direction": "North",
+                "service_id": "Y6 UIMF",
+                "shape_id": "YELLOWHOPPER 23"
+            },
+            "location": {
+                "lat": 40.095697,
+                "lon": -88.24025
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "KBYOAK:2",
+            "origin_stop_id": "E14:2",
+            "destination_stop_id": "IT:5",
+            "last_updated": "2024-10-30T16:50:50-05:00"
+        },
+        {
+            "vehicle_id": "1721",
+            "trip": {
+                "trip_id": "[@7.0.41200832@][1][1238430123625]/60__I8_UIMF",
+                "trip_headsign": "Lincoln & Anthony",
+                "route_id": "ILLINI",
+                "block_id": "I8 UIMF",
+                "direction": "North",
+                "service_id": "I8 UIMF",
+                "shape_id": "[@15.0.63192528@]35"
+            },
+            "location": {
+                "lat": 40.101033,
+                "lon": -88.219067
+            },
+            "previous_stop_id": "PAMD:2",
+            "next_stop_id": "LNCLNOR:2",
+            "origin_stop_id": "PAR:2",
+            "destination_stop_id": "LNCLNKLRNY:2",
+            "last_updated": "2024-10-30T16:51:17-05:00"
+        },
+        {
+            "vehicle_id": "2419",
+            "trip": {
+                "trip_id": "[@6.0.54216924@][1723045917795]/53__O4_RUBY_MF_(V001)",
+                "trip_headsign": "Round Barn Road",
+                "route_id": "ORANGE",
+                "block_id": "O4 RUBY MF (V001)",
+                "direction": "West",
+                "service_id": "O4 RUBY MF (V001)",
+                "shape_id": "[@6.0.54216924@]25"
+            },
+            "location": {
+                "lat": 40.1183,
+                "lon": -88.25425
+            },
+            "previous_stop_id": "CHCHLYN:8",
+            "next_stop_id": "CHCH:2",
+            "origin_stop_id": "UNICTGRV:9",
+            "destination_stop_id": "RNDBRNRD:2",
+            "last_updated": "2024-10-30T16:51:14-05:00"
+        },
+        {
+            "vehicle_id": "2422",
+            "trip": {
+                "trip_id": "[@14.0.51708725@][4][1275506123875]/20__T3_UIMF",
+                "trip_headsign": "Illinois Terminal",
+                "route_id": "TEAL",
+                "block_id": "T3 UIMF",
+                "direction": "West",
+                "service_id": "T3 UIMF",
+                "shape_id": "TEAL 23"
+            },
+            "location": {
+                "lat": 40.09915,
+                "lon": -88.21925
+            },
+            "previous_stop_id": "PAR:2",
+            "next_stop_id": "PSL:2",
+            "origin_stop_id": "PAR:2",
+            "destination_stop_id": "IT:5",
+            "last_updated": "2024-10-30T16:51:08-05:00"
+        },
+        {
+            "vehicle_id": "1606",
+            "trip": {
+                "trip_id": "[@6.0.15252684@][1][1622671552500]/42__LN3_MF",
+                "trip_headsign": "University and Wright",
+                "route_id": "LINK",
+                "block_id": "LN3 MF",
+                "direction": null,
+                "service_id": "LN3 MF",
+                "shape_id": "[@6.0.15252684@]1"
+            },
+            "location": {
+                "lat": 40.086517,
+                "lon": -88.241483
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "HZLWDOAK:2",
+            "origin_stop_id": "ISWS:2",
+            "destination_stop_id": "UNIWRT:2",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "2200",
+            "trip": {
+                "trip_id": "[@6.0.40494377@][32][1689176360224]/0__N2_MF",
+                "trip_headsign": "Kirby & Mullikin",
+                "route_id": "NAVY",
+                "block_id": "N2 MF",
+                "direction": "West",
+                "service_id": "N2 MF",
+                "shape_id": "[@6.0.40494377@]8"
+            },
+            "location": {
+                "lat": 40.1153,
+                "lon": -88.241817
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "LGN1ST:3",
+            "origin_stop_id": "IT:2",
+            "destination_stop_id": "MLKNCTSMDW:2",
+            "last_updated": "2024-10-30T16:49:02-05:00"
+        },
+        {
+            "vehicle_id": "1183",
+            "trip": {
+                "trip_id": "[@6.0.28932250@][2][1654215235685]/131__SV3_UIMF",
+                "trip_headsign": "PAR",
+                "route_id": "SILVER",
+                "block_id": "SV3 UIMF",
+                "direction": "South",
+                "service_id": "SV3 UIMF",
+                "shape_id": "SILVER 120"
+            },
+            "location": {
+                "lat": 40.11286,
+                "lon": -88.221583
+            },
+            "previous_stop_id": "GDWNCB:1",
+            "next_stop_id": "IU:9",
+            "origin_stop_id": "LSE:8",
+            "destination_stop_id": "PAR:2",
+            "last_updated": "2024-10-30T16:51:11-05:00"
+        },
+        {
+            "vehicle_id": "1176",
+            "trip": {
+                "trip_id": "[@6.0.14329702@][2][1622063784513]/28__Y1_MF",
+                "trip_headsign": "Savoy Walmart",
+                "route_id": "YELLOW",
+                "block_id": "Y1 MF",
+                "direction": "South",
+                "service_id": "Y1 MF",
+                "shape_id": "YELLOW 14"
+            },
+            "location": {
+                "lat": 40.14839,
+                "lon": -88.255583
+            },
+            "previous_stop_id": null,
+            "next_stop_id": "PSPCTINTER:7",
+            "origin_stop_id": "WALMART:2",
+            "destination_stop_id": "SWALMART:1",
+            "last_updated": "2024-10-30T16:49:02-05:00"
+        },
+        {
+            "vehicle_id": "1835",
+            "trip": {
+                "trip_id": "[@15.0.73007320@][31][1402416009073]/0__GNX4_MF",
+                "trip_headsign": "Stillwater Landing",
+                "route_id": "GREEN",
+                "block_id": "GNX4 MF",
+                "direction": "East",
+                "service_id": "GNX4 MF",
+                "shape_id": "[@15.0.73007320@]110"
+            },
+            "location": {
+                "lat": 40.127183,
+                "lon": -88.2617
+            },
+            "previous_stop_id": "CFDCAMP:4",
+            "next_stop_id": "CFDPAV:4",
+            "origin_stop_id": "PKLN:1",
+            "destination_stop_id": "STNCRKSTLWTR:1",
+            "last_updated": "2024-10-30T16:51:11-05:00"
+        },
+        {
+            "vehicle_id": "1195",
+            "trip": {
+                "trip_id": "[@6.0.14331263@][2][1622139849262]/81__Y7_UIMF",
+                "trip_headsign": "Lot E-14",
+                "route_id": "YELLOWHOPPER",
+                "block_id": "Y7 UIMF",
+                "direction": "South",
+                "service_id": "Y7 UIMF",
+                "shape_id": "YELLOWHOPPER 26"
+            },
+            "location": {
+                "lat": 40.110263,
+                "lon": -88.228917
+            },
+            "previous_stop_id": "WRTHLY:4",
+            "next_stop_id": "WRTCHAL:4",
+            "origin_stop_id": "IT:5",
+            "destination_stop_id": "E14:2",
+            "last_updated": "2024-10-30T16:51:20-05:00"
+        },
+        {
+            "vehicle_id": "1191",
+            "trip": {
+                "trip_id": "[@14.0.56288404@][1][1302722478769]/17__R6_UIMF",
+                "trip_headsign": "Ashland Park - Apollo",
+                "route_id": "RED",
+                "block_id": "R6 UIMF",
+                "direction": "Champaign",
+                "service_id": "R6 UIMF",
+                "shape_id": "RED 4"
+            },
+            "location": {
+                "lat": 40.144527,
+                "lon": -88.243
+            },
+            "previous_stop_id": "MKTPLCN:2",
+            "next_stop_id": "TCBNEIL:1",
+            "origin_stop_id": "NVLNCLN:8",
+            "destination_stop_id": "NWTNNBL:3",
+            "last_updated": "2024-10-30T16:50:29-05:00"
+        }
+    ]
+}

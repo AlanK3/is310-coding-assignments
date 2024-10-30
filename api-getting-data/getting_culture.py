@@ -7,12 +7,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Retrieve the API key from the environment
-EUROPEANA_API_KEY = os.getenv("EUROPEANA_API_KEY")
+EUROPEANA_API_KEY = os.getenv("EUROPEANA_API_KEY")  # keys are hidden in the hidden .env file
 
 def fetch_data(query):
     base_url = "https://api.europeana.eu/record/v2/search.json"
     params = {
-        'wskey': EUROPEANA_API_KEY,
+        'wskey': "EUROPEANA_API_KEY",
         'query': query,
         'rows': 5
     }
@@ -50,7 +50,8 @@ def save_to_csv(item_data, filename="europeana_data.csv"):
     print(f"Data saved to {filename}")
 
 if __name__ == "__main__":
-    data = fetch_data("Van Gogh")
+    print(EUROPEANA_API_KEY)
+    data = fetch_data("penguins")
     item = extract_item_info(data)
     if item:
         save_to_csv(item)
